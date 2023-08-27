@@ -2,7 +2,7 @@
     {
         "name": "alter",
         "image": "./images/alter.jpg",
-        "price": "$35.00",
+        "price": 35.00,
         "productCode": "d8cb37de-3baa-4d74-b4ba-1a19894ac3c6",
         "description": "These glasses are the perfect accessory for anyone looking for stylish and functional eyewear. The frames are made of durable, lightweight material and come in a variety of colors to suit your personal style. The lenses are made of high-quality, scratch-resistant material and provide 100% UV protection. The glasses also feature an adjustable nose piece and temple arms for a comfortable fit. Whether you're reading, working, or just out and about, these glasses will help you see clearly and look great.",
         "rating": 4,
@@ -15,7 +15,7 @@
       {
         "name": "amity",
         "image": "./images/amity.jpg",
-        "price": "$47.00",
+        "price": 47.00,
         "productCode": "c1def7d8-9314-4075-9cec-37507d9d7690",
         "description": "These glasses are the perfect accessory for anyone looking for stylish and functional eyewear. The frames are made of durable, lightweight material and come in a variety of colors to suit your personal style. The lenses are made of high-quality, scratch-resistant material and provide 100% UV protection. The glasses also feature an adjustable nose piece and temple arms for a comfortable fit. Whether you're reading, working, or just out and about, these glasses will help you see clearly and look great.",
         "rating": 4,
@@ -28,7 +28,7 @@
       {
         "name": "aroma",
         "image": "./images/aroma.jpg",
-        "price": "$27.00",
+        "price": 27.00,
         "productCode": "92026b25-07dd-4a38-b42a-b48a36213920",
         "description": "These glasses are the perfect accessory for anyone looking for stylish and functional eyewear. The frames are made of durable, lightweight material and come in a variety of colors to suit your personal style. The lenses are made of high-quality, scratch-resistant material and provide 100% UV protection. The glasses also feature an adjustable nose piece and temple arms for a comfortable fit. Whether you're reading, working, or just out and about, these glasses will help you see clearly and look great.",
         "rating": 5,
@@ -41,7 +41,7 @@
       {
         "name": "attitude",
         "image": "./images/attitude.jpg",
-        "price": "$30.00",
+        "price": 30.00,
         "productCode": "e4f85148-5108-4aab-a1d6-3fcb3aa89585",
         "description": "These glasses are the perfect accessory for anyone looking for stylish and functional eyewear. The frames are made of durable, lightweight material and come in a variety of colors to suit your personal style. The lenses are made of high-quality, scratch-resistant material and provide 100% UV protection. The glasses also feature an adjustable nose piece and temple arms for a comfortable fit. Whether you're reading, working, or just out and about, these glasses will help you see clearly and look great.",
         "rating": 4,
@@ -54,7 +54,7 @@
       {
         "name": "bandon",
         "image": "./images/bandon.jpg",
-        "price": "$15.00",
+        "price": 15.00,
         "productCode": "9a6e617d-dc4f-4fcc-abca-f4c1f2984e72",
         "description": "These glasses are the perfect accessory for anyone looking for stylish and functional eyewear. The frames are made of durable, lightweight material and come in a variety of colors to suit your personal style. The lenses are made of high-quality, scratch-resistant material and provide 100% UV protection. The glasses also feature an adjustable nose piece and temple arms for a comfortable fit. Whether you're reading, working, or just out and about, these glasses will help you see clearly and look great.",
         "rating": 5,
@@ -67,7 +67,7 @@
       {
         "name": "borderline",
         "image": "./images/borderline.jpg",
-        "price": "$22.00",
+        "price": 22.00,
         "productCode": "4e2d256b-3635-42dd-91fb-3ee90da5c088",
         "description": "These glasses are the perfect accessory for anyone looking for stylish and functional eyewear. The frames are made of durable, lightweight material and come in a variety of colors to suit your personal style. The lenses are made of high-quality, scratch-resistant material and provide 100% UV protection. The glasses also feature an adjustable nose piece and temple arms for a comfortable fit. Whether you're reading, working, or just out and about, these glasses will help you see clearly and look great.",
         "rating": 2,
@@ -80,7 +80,7 @@
       {
         "name": "botanist",
         "image": "./images/botanist.jpg",
-        "price": "$83.00",
+        "price": 83.00,
         "productCode": "06ddd591-bbb1-44be-bf7d-a475bc6d6f8a",
         "description": "These glasses are the perfect accessory for anyone looking for stylish and functional eyewear. The frames are made of durable, lightweight material and come in a variety of colors to suit your personal style. The lenses are made of high-quality, scratch-resistant material and provide 100% UV protection. The glasses also feature an adjustable nose piece and temple arms for a comfortable fit. Whether you're reading, working, or just out and about, these glasses will help you see clearly and look great.",
         "rating": 5,
@@ -93,7 +93,7 @@
       {
         "name": "chill",
         "image": "./images/chill.jpg",
-        "price": "$15.00",
+        "price": 15.00,
         "productCode": "5deb2183-6288-4e25-8f6c-b234f6c7ab6f",
         "description": "These glasses are the perfect accessory for anyone looking for stylish and functional eyewear. The frames are made of durable, lightweight material and come in a variety of colors to suit your personal style. The lenses are made of high-quality, scratch-resistant material and provide 100% UV protection. The glasses also feature an adjustable nose piece and temple arms for a comfortable fit. Whether you're reading, working, or just out and about, these glasses will help you see clearly and look great.",
         "rating": 5,
@@ -106,7 +106,7 @@
       {
         "name": "claudia",
         "image": "./images/claudia.jpg",
-        "price": "$112.00",
+        "price": 112.00,
         "productCode": "745fdc12-f567-448b-93d4-f60d949fae10",
         "description": "These glasses are the perfect accessory for anyone looking for stylish and functional eyewear. The frames are made of durable, lightweight material and come in a variety of colors to suit your personal style. The lenses are made of high-quality, scratch-resistant material and provide 100% UV protection. The glasses also feature an adjustable nose piece and temple arms for a comfortable fit. Whether you're reading, working, or just out and about, these glasses will help you see clearly and look great.",
         "rating": 1,
@@ -119,7 +119,7 @@
       {
         "name": "escape",
         "image": "./images/escape.jpg",
-        "price": "$145.00",
+        "price": 145.00,
         "productCode": "d9ede82f-296f-4e1a-8b74-1ba1260005a8",
         "description": "These glasses are the perfect accessory for anyone looking for stylish and functional eyewear. The frames are made of durable, lightweight material and come in a variety of colors to suit your personal style. The lenses are made of high-quality, scratch-resistant material and provide 100% UV protection. The glasses also feature an adjustable nose piece and temple arms for a comfortable fit. Whether you're reading, working, or just out and about, these glasses will help you see clearly and look great.",
         "quantity": 2,
@@ -132,7 +132,7 @@
       {
         "name": "firefly",
         "image": "./images/firefly.jpg",
-        "price": "$32.00",
+        "price": 32.00,
         "productCode": "56578992-f783-4938-b4e9-4696b263c936",
         "description": "These glasses are the perfect accessory for anyone looking for stylish and functional eyewear. The frames are made of durable, lightweight material and come in a variety of colors to suit your personal style. The lenses are made of high-quality, scratch-resistant material and provide 100% UV protection. The glasses also feature an adjustable nose piece and temple arms for a comfortable fit. Whether you're reading, working, or just out and about, these glasses will help you see clearly and look great.",
         "quantity": 3,
@@ -145,7 +145,7 @@
       { 
       "name": "hollie",
       "image": "./images/hollie.jpg",
-      "price": "$206.00",
+      "price": 206.00,
       "productCode": "3c21f2c7-b371-44fe-8679-1674b704ca44",
       "description": "These glasses are the perfect accessory for anyone looking for stylish and functional eyewear. The frames are made of durable, lightweight material and come in a variety of colors to suit your personal style. The lenses are made of high-quality, scratch-resistant material and provide 100% UV protection. The glasses also feature an adjustable nose piece and temple arms for a comfortable fit. Whether you're reading, working, or just out and about, these glasses will help you see clearly and look great.",
       "quantity": 4,
@@ -158,7 +158,7 @@
     {    
         "name": "intense",
         "image": "./images/intense.jpg",
-        "price": "$13.00",
+        "price": 13.00,
         "productCode": "04790452-0ee9-43d6-bfcb-a865795a4b8d",
         "description": "These glasses are the perfect accessory for anyone looking for stylish and functional eyewear. The frames are made of durable, lightweight material and come in a variety of colors to suit your personal style. The lenses are made of high-quality, scratch-resistant material and provide 100% UV protection. The glasses also feature an adjustable nose piece and temple arms for a comfortable fit. Whether you're reading, working, or just out and about, these glasses will help you see clearly and look great.",
         "quantity": 4,
@@ -171,7 +171,7 @@
     {    
         "name": "mandi",
         "image": "./images/mandi.jpg",
-        "price": "$23.00",
+        "price": 23.00,
         "productCode": "6274bea2-e91d-4c12-a2f3-35abe3da3f57",
         "description": "These glasses are the perfect accessory for anyone looking for stylish and functional eyewear. The frames are made of durable, lightweight material and come in a variety of colors to suit your personal style. The lenses are made of high-quality, scratch-resistant material and provide 100% UV protection. The glasses also feature an adjustable nose piece and temple arms for a comfortable fit. Whether you're reading, working, or just out and about, these glasses will help you see clearly and look great.",
         "quantity": 2,
@@ -184,7 +184,7 @@
     {    
         "name": "morning",
         "image": "./images/morning.jpg",
-        "price": "$247.00",
+        "price": 247.00,
         "productCode": "769625f2-5de1-4c6b-b1bc-553cb8e23bb8",
         "description": "These glasses are the perfect accessory for anyone looking for stylish and functional eyewear. The frames are made of durable, lightweight material and come in a variety of colors to suit your personal style. The lenses are made of high-quality, scratch-resistant material and provide 100% UV protection. The glasses also feature an adjustable nose piece and temple arms for a comfortable fit. Whether you're reading, working, or just out and about, these glasses will help you see clearly and look great.",
         "quantity": 1,
@@ -197,7 +197,7 @@
     {    
         "name": "nala",
         "image": "./images/nala.jpg",
-        "price": "$304.00",
+        "price": 304.00,
         "productCode": "d5486173-56d5-4cb6-8978-41ffff9c1e85",
         "description": "These glasses are the perfect accessory for anyone looking for stylish and functional eyewear. The frames are made of durable, lightweight material and come in a variety of colors to suit your personal style. The lenses are made of high-quality, scratch-resistant material and provide 100% UV protection. The glasses also feature an adjustable nose piece and temple arms for a comfortable fit. Whether you're reading, working, or just out and about, these glasses will help you see clearly and look great.",
         "quantity": 4,
@@ -210,7 +210,7 @@
     {
         "name": "nola",
         "image": "./images/nola.jpg",
-        "price": "$113.00",
+        "price": 113.00,
         "productCode": "1ae41dda-fc7f-4d1e-825b-be6f4e954cae",
         "description": "These glasses are the perfect accessory for anyone looking for stylish and functional eyewear. The frames are made of durable, lightweight material and come in a variety of colors to suit your personal style. The lenses are made of high-quality, scratch-resistant material and provide 100% UV protection. The glasses also feature an adjustable nose piece and temple arms for a comfortable fit. Whether you're reading, working, or just out and about, these glasses will help you see clearly and look great.",
         "quantity": 4,
@@ -223,7 +223,7 @@
     {
         "name": "pacific",
         "image": "./images/pacific.jpg",
-        "price": "$44.00",
+        "price": 44.00,
         "productCode": "02fd9349-ca29-4d1f-9971-fd8bbfbb0b8d",
         "description": "These glasses are the perfect accessory for anyone looking for stylish and functional eyewear. The frames are made of durable, lightweight material and come in a variety of colors to suit your personal style. The lenses are made of high-quality, scratch-resistant material and provide 100% UV protection. The glasses also feature an adjustable nose piece and temple arms for a comfortable fit. Whether you're reading, working, or just out and about, these glasses will help you see clearly and look great.",
         "quantity": 5,
@@ -236,7 +236,7 @@
     {
         "name": "quill",
         "image": "./images/quill.jpg",
-        "price": "$34.00",
+        "price": 34.00,
         "productCode": "387d33ef-4327-45fc-9b6d-7774813e8d87",
         "description": "These glasses are the perfect accessory for anyone looking for stylish and functional eyewear. The frames are made of durable, lightweight material and come in a variety of colors to suit your personal style. The lenses are made of high-quality, scratch-resistant material and provide 100% UV protection. The glasses also feature an adjustable nose piece and temple arms for a comfortable fit. Whether you're reading, working, or just out and about, these glasses will help you see clearly and look great.",
         "quantity": 4,
@@ -249,7 +249,7 @@
     {
         "name": "ramy",
         "image": "./images/ramy.jpg",
-        "price": "$23.00",
+        "price": 23.00,
         "productCode": "10931abb-de73-48ae-bcec-1920df0d2272",
         "description": "These glasses are the perfect accessory for anyone looking for stylish and functional eyewear. The frames are made of durable, lightweight material and come in a variety of colors to suit your personal style. The lenses are made of high-quality, scratch-resistant material and provide 100% UV protection. The glasses also feature an adjustable nose piece and temple arms for a comfortable fit. Whether you're reading, working, or just out and about, these glasses will help you see clearly and look great.",
         "quantity": 2,
@@ -262,7 +262,7 @@
     {
         "name": "spark",
         "image": "./images/spark.jpg",
-        "price": "$56.00",
+        "price": 56.00,
         "productCode": "b1508cd3-6eee-4a9d-a612-95aa20e0bff0",
         "description": "These glasses are the perfect accessory for anyone looking for stylish and functional eyewear. The frames are made of durable, lightweight material and come in a variety of colors to suit your personal style. The lenses are made of high-quality, scratch-resistant material and provide 100% UV protection. The glasses also feature an adjustable nose piece and temple arms for a comfortable fit. Whether you're reading, working, or just out and about, these glasses will help you see clearly and look great.",
         "quantity": 4,
@@ -275,7 +275,7 @@
     {
         "name": "star",
         "image": "./images/star.jpg",
-        "price": "$64.00",
+        "price": 64.00,
         "productCode": "292220e6-c36a-45b7-bd25-b26ad2a2aaeb",
         "description": "These glasses are the perfect accessory for anyone looking for stylish and functional eyewear. The frames are made of durable, lightweight material and come in a variety of colors to suit your personal style. The lenses are made of high-quality, scratch-resistant material and provide 100% UV protection. The glasses also feature an adjustable nose piece and temple arms for a comfortable fit. Whether you're reading, working, or just out and about, these glasses will help you see clearly and look great.",
         "quantity": 5,
@@ -288,7 +288,7 @@
     {
         "name": "synapse",
         "image": "./images/synapse.jpg",
-        "price": "$22.00",
+        "price": 22.00,
         "productCode": "64951293-f730-48ef-bb3f-ef0434dad2b7",
         "description": "These glasses are the perfect accessory for anyone looking for stylish and functional eyewear. The frames are made of durable, lightweight material and come in a variety of colors to suit your personal style. The lenses are made of high-quality, scratch-resistant material and provide 100% UV protection. The glasses also feature an adjustable nose piece and temple arms for a comfortable fit. Whether you're reading, working, or just out and about, these glasses will help you see clearly and look great.",
         "quantity": 4,
@@ -301,7 +301,7 @@
     {
         "name": "theory",
         "image": "./images/theory.jpg",
-        "price": "$33.00",
+        "price": 33.00,
         "productCode": "f17e2189-1e6d-46e9-89cd-35f2f94714ea",
         "description": "These glasses are the perfect accessory for anyone looking for stylish and functional eyewear. The frames are made of durable, lightweight material and come in a variety of colors to suit your personal style. The lenses are made of high-quality, scratch-resistant material and provide 100% UV protection. The glasses also feature an adjustable nose piece and temple arms for a comfortable fit. Whether you're reading, working, or just out and about, these glasses will help you see clearly and look great.",
         "quantity": 5,
@@ -314,7 +314,7 @@
     {
         "name": "tower",
         "image": "./images/tower.jpg",
-        "price": "$27.00",
+        "price": 27.00,
         "productCode": "f5907a7b-ed7e-4e0d-86f4-864821a74324",
         "description": "These glasses are the perfect accessory for anyone looking for stylish and functional eyewear. The frames are made of durable, lightweight material and come in a variety of colors to suit your personal style. The lenses are made of high-quality, scratch-resistant material and provide 100% UV protection. The glasses also feature an adjustable nose piece and temple arms for a comfortable fit. Whether you're reading, working, or just out and about, these glasses will help you see clearly and look great.",
         "quantity": 4,
@@ -327,7 +327,7 @@
     {
         "name": "uptown",
         "image": "./images/uptown.jpg",
-        "price": "$45.00",
+        "price": 45.00,
         "productCode": "5963339a-f9bf-4845-b58c-763d3e9a4293",
         "description": "These glasses are the perfect accessory for anyone looking for stylish and functional eyewear. The frames are made of durable, lightweight material and come in a variety of colors to suit your personal style. The lenses are made of high-quality, scratch-resistant material and provide 100% UV protection. The glasses also feature an adjustable nose piece and temple arms for a comfortable fit. Whether you're reading, working, or just out and about, these glasses will help you see clearly and look great.",
         "quantity": 5,
