@@ -10,12 +10,29 @@ const getAllProductsStatic = async (req, res) => {
 }
 
 const getAllProducts = async (req, res) => {
-    const { name, sort } = req.query;
+    const { name, gender, brand, colors, material, sort } = req.query;
     const queryObject = {}
     
     if (name) {
         queryObject.name = { $regex: name, $options: "i" }
     }
+
+    if (gender) {
+        queryObject.gender = { $regex: gender, $options: "i" }
+    }
+
+    if (brand) {
+        queryObject.brand = { $regex: brand, $options: "i" }
+    }
+
+    if (colors) {
+        queryObject.colors = { $regex: colors, $options: "i" }
+    }
+
+    if (material) {
+        queryObject.material = { $regex: material, $options: "i" }
+    }
+
 
     let result = Product.find(queryObject)
 
