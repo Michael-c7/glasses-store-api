@@ -126,7 +126,7 @@
         "rating": 4.0,
         "gender": "female",
         "brand": "oakley",
-        "color": "black",
+        "colors": "black",
         "material": "plastic"
       },
       {
@@ -139,7 +139,7 @@
         "rating": 1.0,
         "gender": "male",
         "brand": "ray-ban",
-        "color": "red,black",
+        "colors": "red,black",
         "material": "plastic"
       },
       { 
@@ -152,7 +152,7 @@
       "rating": 2.0,
       "gender": "female",
       "brand": "coach",
-      "color": "blue,brown",
+      "colors": "blue,brown",
       "material": "plastic"
     },
     {    
@@ -165,7 +165,7 @@
         "rating": 4.0,
         "gender": "female",
         "brand": "ray-ban",
-        "color": "pink,orange,silver",
+        "colors": "pink,orange,silver",
         "material": "titanium"
     },
     {    
@@ -178,7 +178,7 @@
         "rating": 14.0,
         "gender": "female",
         "brand": "ottoto",
-        "color": "silver,white",
+        "colors": "silver,white",
         "material": "plastic"
     },
     {    
@@ -191,7 +191,7 @@
         "rating": 1.0,
         "gender": "male",
         "brand": "oakley",
-        "color": "black",
+        "colors": "black",
         "material": "titanium"
     },
     {    
@@ -204,7 +204,7 @@
         "rating": 13.0,
         "gender": "female",
         "brand": "muse",
-        "color": "gold",
+        "colors": "gold",
         "material": "metal"
     },
     {
@@ -217,7 +217,7 @@
         "rating": 44.0,
         "gender": "male",
         "brand": "ottoto",
-        "color": "darkblue,black",
+        "colors": "darkblue,black",
         "material": "metal"
     },
     {
@@ -230,7 +230,7 @@
         "rating": 37.0,
         "gender": "female",
         "brand": "persol",
-        "color": "aqua",
+        "colors": "aqua",
         "material": "plastic"
     },
     {
@@ -243,7 +243,7 @@
         "rating": 12.0,
         "gender": "female",
         "brand": "persol",
-        "color": "crimson,black",
+        "colors": "crimson,black",
         "material": "plastic"
     },
     {
@@ -256,7 +256,7 @@
         "rating": 28.0,
         "gender": "male",
         "brand": "muse",
-        "color": "silver,black",
+        "colors": "silver,black",
         "material": "metal"
     },
     {
@@ -269,7 +269,7 @@
         "rating": 44.0,
         "gender": "male",
         "brand": "muse",
-        "color": "burlywood",
+        "colors": "burlywood",
         "material": "metal"
     },
     {
@@ -282,7 +282,7 @@
         "rating": 66.0,
         "gender": "female",
         "brand": "muse",
-        "color": "gray",
+        "colors": "gray",
         "material": "metal"
     },
     {
@@ -295,7 +295,7 @@
         "rating": 11.0,
         "gender": "female",
         "brand": "ray-ban",
-        "color": "cornflowerblue,black",
+        "colors": "cornflowerblue,black",
         "material": "titanium"
     },
     {
@@ -308,7 +308,7 @@
         "rating": 14.0,
         "gender": "male",
         "brand": "ottoto",
-        "color": "navy,yellow,purple,orange",
+        "colors": "navy,yellow,purple,orange",
         "material": "plastic"
     },
     {
@@ -321,7 +321,7 @@
         "rating": 25.0,
         "gender": "male",
         "brand": "persol",
-        "color": "black",
+        "colors": "black",
         "material": "titanium"
     },
     {
@@ -334,7 +334,7 @@
         "rating": 6.0,
         "gender": "female",
         "brand": "muse",
-        "color": "saddlebrown,burlywood,black",
+        "colors": "saddlebrown,burlywood,black",
         "material": "plastic"
     }         
 ]
